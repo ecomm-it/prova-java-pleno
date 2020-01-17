@@ -56,7 +56,7 @@ Esta prova tem como objetivo atestar os conhecimentos do candidato em Java Backe
     - [ ] *Bonus : Crie um banco de dados utilizando ou JPA ou Hibernate e salve o JSON recebido no banco a cada execucao.
     - [ ] *Desafio : Remova o texto do fim da imagem e salve no arquivo Clean_AnoMesDia.png
 
-    * Imagem Original 
+    * Imagem sem o texto
 
 
     ![alt text](img/3.png)
