@@ -40,10 +40,16 @@ Esta prova tem como objetivo atestar os conhecimentos do candidato em Java Backe
     - [ ] Crie um algoritimo que consiga dividir a imagem em 4 e embaralhar a imagem.
 
     * Imagem Original 
+    
+
     ![alt text](img/1.png)
 
     * Imagem Embaralhada
+
+
     ![alt text](img/2.png)
+
+
 
     - [ ] A cada execucao do programa salve a imagem embaralhada com Crypt_AnoMesDia.png (Ano Mes Dia deve ser substituido pelo dado real).
     - [ ] Escreva o log no Console com o que esta ocorrendo.
@@ -51,6 +57,8 @@ Esta prova tem como objetivo atestar os conhecimentos do candidato em Java Backe
     - [ ] *Desafio : Remova o texto do fim da imagem e salve no arquivo Clean_AnoMesDia.png
 
     * Imagem Original 
+
+
     ![alt text](img/3.png)
 !
 
